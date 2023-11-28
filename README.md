@@ -1,8 +1,8 @@
 # Welcome to My GitHub Portfolio
 
-Explore my year-long journey in Data Science and Natural Language Processing (NLP) through this collection of Jupyter Notebooks. 
+Here I present my year-long journey in Data Science and Natural Language Processing (NLP) in a collection of Jupyter Notebooks. 
 
-They reflect my efforts in working with complex data into meaningful insights and engaging visualizations.
+They reflect my efforts in working with complex data into meaningful insights and engaging visualizations, tables and wordclouds.
 
 
 ## 1. My Data Science Journey: Delivering Impactful Insights
