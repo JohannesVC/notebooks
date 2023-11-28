@@ -1,0 +1,291 @@
+,Indicator,Category,Company,Frameworks,Value,Attributed,Submitted,Proof,Units
+1,Carbon Footprint,Climate,CarbonZero Tech,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1523.0,152.3,Submitted,[download],tons
+2,Carbon Footprint,Climate,SolarScape Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Not sumbitted,,
+3,Carbon Footprint,Climate,EcoPower Innovations,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1876.0,187.6,Submitted,[download],tons
+4,Carbon Footprint,Climate,ClimateGuard Technologies,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",2200.0,220,Submitted,[download],tons
+5,Carbon Footprint,Climate,WindFlow Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",901.0,90.1,Submitted,[download],tons
+6,Carbon Footprint,Climate,GreenGrid Systems,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1433.0,143.3,Submitted,[download],tons
+7,Carbon Footprint,Climate,BioFuel Dynamics,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1249.0,124.9,Submitted,[download],tons
+8,Carbon Footprint,Climate,ClimateTech Labs,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1700.0,170,Submitted,[download],tons
+9,Carbon Footprint,Climate,OceanWave Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1600.0,160,Submitted,[download],tons
+10,Carbon Footprint,Climate,RenewaTech Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1300.0,130,Submitted,[download],tons
+12,Renewable Energy Usage,"Climate, Energy",CarbonZero Tech,"RE100, GRESB, PAIs, IRIS+",658.0,65,Submitted,[download],KWh
+13,Renewable Energy Usage,"Climate, Energy",SolarScape Solutions,"RE100, GRESB, PAIs, IRIS+",512.0,51,Submitted,[download],KWh
+14,Renewable Energy Usage,"Climate, Energy",EcoPower Innovations,"RE100, GRESB, PAIs, IRIS+",789.0,78,Submitted,[download],KWh
+15,Renewable Energy Usage,"Climate, Energy",ClimateGuard Technologies,"RE100, GRESB, PAIs, IRIS+",425.0,42,Submitted,[download],KWh
+16,Renewable Energy Usage,"Climate, Energy",WindFlow Energy,"RE100, GRESB, PAIs, IRIS+",573.0,57,Submitted,[download],KWh
+17,Renewable Energy Usage,"Climate, Energy",GreenGrid Systems,"RE100, GRESB, PAIs, IRIS+",1.0,126,Submitted,[download],KWh
+18,Renewable Energy Usage,"Climate, Energy",BioFuel Dynamics,"RE100, GRESB, PAIs, IRIS+",1.0,110,Submitted,[download],KWh
+19,Renewable Energy Usage,"Climate, Energy",ClimateTech Labs,"RE100, GRESB, PAIs, IRIS+",398.0,39,Submitted,[download],KWh
+20,Renewable Energy Usage,"Climate, Energy",OceanWave Energy,"RE100, GRESB, PAIs, IRIS+",456.0,45,Submitted,[download],KWh
+21,Renewable Energy Usage,"Climate, Energy",RenewaTech Solutions,"RE100, GRESB, PAIs, IRIS+",589.0,58,Submitted,[download],KWh
+23,Waste Diversion Rate,"Waste, Pollution",CarbonZero Tech,IRIS+,75.0,,Submitted,[download],
+24,Waste Diversion Rate,"Waste, Pollution",SolarScape Solutions,IRIS+,85.0,,Submitted,[download],
+25,Waste Diversion Rate,"Waste, Pollution",EcoPower Innovations,IRIS+,70.0,,Submitted,[download],
+26,Waste Diversion Rate,"Waste, Pollution",ClimateGuard Technologies,IRIS+,80.0,,Submitted,[download],
+27,Waste Diversion Rate,"Waste, Pollution",WindFlow Energy,IRIS+,65.0,,Submitted,[download],
+28,Waste Diversion Rate,"Waste, Pollution",GreenGrid Systems,IRIS+,60.0,,Submitted,[download],
+29,Waste Diversion Rate,"Waste, Pollution",BioFuel Dynamics,IRIS+,75.0,,Submitted,[download],
+30,Waste Diversion Rate,"Waste, Pollution",ClimateTech Labs,IRIS+,70.0,,Submitted,[download],
+31,Waste Diversion Rate,"Waste, Pollution",OceanWave Energy,IRIS+,80.0,,Submitted,[download],
+32,Waste Diversion Rate,"Waste, Pollution",RenewaTech Solutions,IRIS+,85.0,,Submitted,[download],
+34,Biodiversity Impact,Biodiversity & Ecosystems,CarbonZero Tech,B Impact Assessment,,,Submitted,[download],High
+35,Biodiversity Impact,Biodiversity & Ecosystems,SolarScape Solutions,B Impact Assessment,,,Submitted,[download],Moderate
+36,Biodiversity Impact,Biodiversity & Ecosystems,EcoPower Innovations,B Impact Assessment,,,Submitted,[download],Low
+37,Biodiversity Impact,Biodiversity & Ecosystems,ClimateGuard Technologies,B Impact Assessment,,,Submitted,[download],Moderate
+38,Biodiversity Impact,Biodiversity & Ecosystems,WindFlow Energy,B Impact Assessment,,,Submitted,[download],High
+39,Biodiversity Impact,Biodiversity & Ecosystems,GreenGrid Systems,B Impact Assessment,,,Submitted,[download],Low
+40,Biodiversity Impact,Biodiversity & Ecosystems,BioFuel Dynamics,B Impact Assessment,,,Submitted,[download],Moderate
+41,Biodiversity Impact,Biodiversity & Ecosystems,ClimateTech Labs,B Impact Assessment,,,Submitted,[download],High
+42,Biodiversity Impact,Biodiversity & Ecosystems,OceanWave Energy,B Impact Assessment,,,Submitted,[download],Moderate
+43,Biodiversity Impact,Biodiversity & Ecosystems,RenewaTech Solutions,B Impact Assessment,,,Submitted,[download],Low
+45,Diversity and Inclusion,"Employment, Diversity & Inclusion",CarbonZero Tech,"UN Global Compact, IRIS+",,,Submitted,[download],Comprehensive
+46,Diversity and Inclusion,"Employment, Diversity & Inclusion",SolarScape Solutions,"UN Global Compact, IRIS+",,,Submitted,[download],Developing
+47,Diversity and Inclusion,"Employment, Diversity & Inclusion",EcoPower Innovations,"UN Global Compact, IRIS+",,,Submitted,[download],Comprehensive
+48,Diversity and Inclusion,"Employment, Diversity & Inclusion",ClimateGuard Technologies,"UN Global Compact, IRIS+",,,Submitted,[download],Developing
+49,Diversity and Inclusion,"Employment, Diversity & Inclusion",WindFlow Energy,"UN Global Compact, IRIS+",,,Submitted,[download],Comprehensive
+50,Diversity and Inclusion,"Employment, Diversity & Inclusion",GreenGrid Systems,"UN Global Compact, IRIS+",,,Submitted,[download],Developing
+51,Diversity and Inclusion,"Employment, Diversity & Inclusion",BioFuel Dynamics,"UN Global Compact, IRIS+",,,Submitted,[download],Comprehensive
+52,Diversity and Inclusion,"Employment, Diversity & Inclusion",ClimateTech Labs,"UN Global Compact, IRIS+",,,Submitted,[download],Developing
+53,Diversity and Inclusion,"Employment, Diversity & Inclusion",OceanWave Energy,"UN Global Compact, IRIS+",,,Submitted,[download],Comprehensive
+54,Diversity and Inclusion,"Employment, Diversity & Inclusion",RenewaTech Solutions,"UN Global Compact, IRIS+",,,Submitted,[download],Developing
+56,Climate Change Policy,Climate,CarbonZero Tech,"TCFD, PAIs",,,Submitted,[download],Ambitious
+57,Climate Change Policy,Climate,SolarScape Solutions,"TCFD, PAIs",,,Submitted,[download],Aggressive
+58,Climate Change Policy,Climate,EcoPower Innovations,"TCFD, PAIs",,,Submitted,[download],Ambitious
+59,Climate Change Policy,Climate,ClimateGuard Technologies,"TCFD, PAIs",,,Submitted,[download],Aggressive
+60,Climate Change Policy,Climate,WindFlow Energy,"TCFD, PAIs",,,Submitted,[download],Ambitious
+61,Climate Change Policy,Climate,GreenGrid Systems,"TCFD, PAIs",,,Submitted,[download],Aggressive
+62,Climate Change Policy,Climate,BioFuel Dynamics,"TCFD, PAIs",,,Submitted,[download],Ambitious
+63,Climate Change Policy,Climate,ClimateTech Labs,"TCFD, PAIs",,,Submitted,[download],Aggressive
+64,Climate Change Policy,Climate,OceanWave Energy,"TCFD, PAIs",,,Submitted,[download],Ambitious
+65,Climate Change Policy,Climate,RenewaTech Solutions,"TCFD, PAIs",,,Submitted,[download],Aggressive
+67,Supply Chain Policy,Multiple,CarbonZero Tech,"Sustainable Supply, PAIs",,,Submitted,[download],Strong
+68,Supply Chain Policy,Multiple,SolarScape Solutions,"Sustainable Supply, PAIs",,,Submitted,[download],Moderate
+69,Supply Chain Policy,Multiple,EcoPower Innovations,"Sustainable Supply, PAIs",,,Submitted,[download],Strong
+70,Supply Chain Policy,Multiple,ClimateGuard Technologies,"Sustainable Supply, PAIs",,,Submitted,[download],Moderate
+71,Supply Chain Policy,Multiple,WindFlow Energy,"Sustainable Supply, PAIs",,,Submitted,[download],Strong
+72,Supply Chain Policy,Multiple,GreenGrid Systems,"Sustainable Supply, PAIs",,,Submitted,[download],Moderate
+73,Supply Chain Policy,Multiple,BioFuel Dynamics,"Sustainable Supply, PAIs",,,Submitted,[download],Strong
+74,Supply Chain Policy,Multiple,ClimateTech Labs,"Sustainable Supply, PAIs",,,Submitted,[download],Moderate
+75,Supply Chain Policy,Multiple,OceanWave Energy,"Sustainable Supply, PAIs",,,Submitted,[download],Strong
+76,Supply Chain Policy,Multiple,RenewaTech Solutions,"Sustainable Supply, PAIs",,,Submitted,[download],Moderate
+78,Ethical Governance,Multiple,CarbonZero Tech,"Ethisphere, PAIs",,,Submitted,[download],Transparent
+79,Ethical Governance,Multiple,SolarScape Solutions,"Ethisphere, PAIs",,,Submitted,[download],Transparent
+80,Ethical Governance,Multiple,EcoPower Innovations,"Ethisphere, PAIs",,,Submitted,[download],Transparent
+81,Ethical Governance,Multiple,ClimateGuard Technologies,"Ethisphere, PAIs",,,Submitted,[download],Transparent
+82,Ethical Governance,Multiple,WindFlow Energy,"Ethisphere, PAIs",,,Submitted,[download],Transparent
+83,Ethical Governance,Multiple,GreenGrid Systems,"Ethisphere, PAIs",,,Submitted,[download],Transparent
+84,Ethical Governance,Multiple,BioFuel Dynamics,"Ethisphere, PAIs",,,Submitted,[download],Transparent
+85,Ethical Governance,Multiple,ClimateTech Labs,"Ethisphere, PAIs",,,Submitted,[download],Transparent
+86,Ethical Governance,Multiple,OceanWave Energy,"Ethisphere, PAIs",,,Submitted,[download],Transparent
+87,Ethical Governance,Multiple,RenewaTech Solutions,"Ethisphere, PAIs",,,Submitted,[download],Transparent
+89,Community Engagement,Multiple,CarbonZero Tech,"CSR Reporting, PAIs",,,Submitted,[download],Active
+90,Community Engagement,Multiple,SolarScape Solutions,"CSR Reporting, PAIs",,,Submitted,[download],Involved
+91,Community Engagement,Multiple,EcoPower Innovations,"CSR Reporting, PAIs",,,Submitted,[download],Active
+92,Community Engagement,Multiple,ClimateGuard Technologies,"CSR Reporting, PAIs",,,Submitted,[download],Involved
+93,Community Engagement,Multiple,WindFlow Energy,"CSR Reporting, PAIs",,,Submitted,[download],Active
+94,Community Engagement,Multiple,GreenGrid Systems,"CSR Reporting, PAIs",,,Submitted,[download],Involved
+95,Community Engagement,Multiple,BioFuel Dynamics,"CSR Reporting, PAIs",,,Submitted,[download],Active
+96,Community Engagement,Multiple,ClimateTech Labs,"CSR Reporting, PAIs",,,Submitted,[download],Involved
+97,Community Engagement,Multiple,OceanWave Energy,"CSR Reporting, PAIs",,,Submitted,[download],Active
+98,Community Engagement,Multiple,RenewaTech Solutions,"CSR Reporting, PAIs",,,Submitted,[download],Involved
+100,Alignment with OECD and UN Principles,Multiple,CarbonZero Tech,"OECD, PAIs, SFDR, UNGC",,,Submitted,[download],Active
+101,Alignment with OECD and UN Principles,Multiple,SolarScape Solutions,"OECD, PAIs, SFDR, UNGC",,,Submitted,[download],Involved
+102,Alignment with OECD and UN Principles,Multiple,EcoPower Innovations,"OECD, PAIs, SFDR, UNGC",,,Submitted,[download],Active
+103,Alignment with OECD and UN Principles,Multiple,ClimateGuard Technologies,"OECD, PAIs, SFDR, UNGC",,,Submitted,[download],Involved
+104,Alignment with OECD and UN Principles,Multiple,WindFlow Energy,"OECD, PAIs, SFDR, UNGC",,,Submitted,[download],Active
+105,Alignment with OECD and UN Principles,Multiple,GreenGrid Systems,"OECD, PAIs, SFDR, UNGC",,,Submitted,[download],Involved
+106,Alignment with OECD and UN Principles,Multiple,BioFuel Dynamics,"OECD, PAIs, SFDR, UNGC",,,Submitted,[download],Active
+107,Alignment with OECD and UN Principles,Multiple,ClimateTech Labs,"OECD, PAIs, SFDR, UNGC",,,Submitted,[download],Involved
+108,Alignment with OECD and UN Principles,Multiple,OceanWave Energy,"OECD, PAIs, SFDR, UNGC",,,Submitted,[download],Active
+109,Alignment with OECD and UN Principles,Multiple,RenewaTech Solutions,"OECD, PAIs, SFDR, UNGC",,,Submitted,[download],Involved
+111,EU Taxonomy Revenue Aligned,Multiple,CarbonZero Tech,"EU Taxonomy, SFDR",42.0,,Submitted,[download],
+112,EU Taxonomy Revenue Aligned,Multiple,SolarScape Solutions,"EU Taxonomy, SFDR",87.0,,Submitted,[download],
+113,EU Taxonomy Revenue Aligned,Multiple,EcoPower Innovations,"EU Taxonomy, SFDR",25.0,,Submitted,[download],
+114,EU Taxonomy Revenue Aligned,Multiple,ClimateGuard Technologies,"EU Taxonomy, SFDR",63.0,,Submitted,[download],
+115,EU Taxonomy Revenue Aligned,Multiple,WindFlow Energy,"EU Taxonomy, SFDR",14.0,,Submitted,[download],
+116,EU Taxonomy Revenue Aligned,Multiple,GreenGrid Systems,"EU Taxonomy, SFDR",55.0,,Submitted,[download],
+117,EU Taxonomy Revenue Aligned,Multiple,BioFuel Dynamics,"EU Taxonomy, SFDR",91.0,,Submitted,[download],
+118,EU Taxonomy Revenue Aligned,Multiple,ClimateTech Labs,"EU Taxonomy, SFDR",37.0,,Submitted,[download],
+119,EU Taxonomy Revenue Aligned,Multiple,OceanWave Energy,"EU Taxonomy, SFDR",68.0,,Submitted,[download],
+120,EU Taxonomy Revenue Aligned,Multiple,RenewaTech Solutions,"EU Taxonomy, SFDR",19.0,,Submitted,[download],
+122,EU Taxonomy Opex Aligned,Multiple,CarbonZero Tech,"EU Taxonomy, SFDR",76.0,,Submitted,[download],
+123,EU Taxonomy Opex Aligned,Multiple,SolarScape Solutions,"EU Taxonomy, SFDR",33.0,,Submitted,[download],
+124,EU Taxonomy Opex Aligned,Multiple,EcoPower Innovations,"EU Taxonomy, SFDR",58.0,,Submitted,[download],
+125,EU Taxonomy Opex Aligned,Multiple,ClimateGuard Technologies,"EU Taxonomy, SFDR",82.0,,Submitted,[download],
+126,EU Taxonomy Opex Aligned,Multiple,WindFlow Energy,"EU Taxonomy, SFDR",41.0,,Submitted,[download],
+127,EU Taxonomy Opex Aligned,Multiple,GreenGrid Systems,"EU Taxonomy, SFDR",67.0,,Submitted,[download],
+128,EU Taxonomy Opex Aligned,Multiple,BioFuel Dynamics,"EU Taxonomy, SFDR",29.0,,Submitted,[download],
+129,EU Taxonomy Opex Aligned,Multiple,ClimateTech Labs,"EU Taxonomy, SFDR",94.0,,Submitted,[download],
+130,EU Taxonomy Opex Aligned,Multiple,OceanWave Energy,"EU Taxonomy, SFDR",50.0,,Submitted,[download],
+131,EU Taxonomy Opex Aligned,Multiple,RenewaTech Solutions,"EU Taxonomy, SFDR",71.0,,Submitted,[download],
+133,EU Taxonomy Capex Aligned,Multiple,CarbonZero Tech,"EU Taxonomy, SFDR",47.0,,Submitted,[download],
+134,EU Taxonomy Capex Aligned,Multiple,SolarScape Solutions,"EU Taxonomy, SFDR",60.0,,Submitted,[download],
+135,EU Taxonomy Capex Aligned,Multiple,EcoPower Innovations,"EU Taxonomy, SFDR",83.0,,Submitted,[download],
+136,EU Taxonomy Capex Aligned,Multiple,ClimateGuard Technologies,"EU Taxonomy, SFDR",28.0,,Submitted,[download],
+137,EU Taxonomy Capex Aligned,Multiple,WindFlow Energy,"EU Taxonomy, SFDR",75.0,,Submitted,[download],
+138,EU Taxonomy Capex Aligned,Multiple,GreenGrid Systems,"EU Taxonomy, SFDR",53.0,,Submitted,[download],
+139,EU Taxonomy Capex Aligned,Multiple,BioFuel Dynamics,"EU Taxonomy, SFDR",12.0,,Submitted,[download],
+140,EU Taxonomy Capex Aligned,Multiple,ClimateTech Labs,"EU Taxonomy, SFDR",66.0,,Submitted,[download],
+141,EU Taxonomy Capex Aligned,Multiple,OceanWave Energy,"EU Taxonomy, SFDR",39.0,,Submitted,[download],
+142,EU Taxonomy Capex Aligned,Multiple,RenewaTech Solutions,"EU Taxonomy, SFDR",88.0,,Submitted,[download],
+144,EU Taxonomy Revenue Eligible,Multiple,CarbonZero Tech,"EU Taxonomy, SFDR",42.0,,Submitted,[download],
+145,EU Taxonomy Revenue Eligible,Multiple,SolarScape Solutions,"EU Taxonomy, SFDR",87.0,,Submitted,[download],
+146,EU Taxonomy Revenue Eligible,Multiple,EcoPower Innovations,"EU Taxonomy, SFDR",25.0,,Submitted,[download],
+147,EU Taxonomy Revenue Eligible,Multiple,ClimateGuard Technologies,"EU Taxonomy, SFDR",63.0,,Submitted,[download],
+148,EU Taxonomy Revenue Eligible,Multiple,WindFlow Energy,"EU Taxonomy, SFDR",14.0,,Submitted,[download],
+149,EU Taxonomy Revenue Eligible,Multiple,GreenGrid Systems,"EU Taxonomy, SFDR",55.0,,Submitted,[download],
+150,EU Taxonomy Revenue Eligible,Multiple,BioFuel Dynamics,"EU Taxonomy, SFDR",91.0,,Submitted,[download],
+151,EU Taxonomy Revenue Eligible,Multiple,ClimateTech Labs,"EU Taxonomy, SFDR",37.0,,Submitted,[download],
+152,EU Taxonomy Revenue Eligible,Multiple,OceanWave Energy,"EU Taxonomy, SFDR",68.0,,Submitted,[download],
+153,EU Taxonomy Revenue Eligible,Multiple,RenewaTech Solutions,"EU Taxonomy, SFDR",19.0,,Submitted,[download],
+155,EU Taxonomy Opex Eligible,Multiple,CarbonZero Tech,"EU Taxonomy, SFDR",76.0,,Submitted,[download],
+156,EU Taxonomy Opex Eligible,Multiple,SolarScape Solutions,"EU Taxonomy, SFDR",33.0,,Submitted,[download],
+157,EU Taxonomy Opex Eligible,Multiple,EcoPower Innovations,"EU Taxonomy, SFDR",58.0,,Submitted,[download],
+158,EU Taxonomy Opex Eligible,Multiple,ClimateGuard Technologies,"EU Taxonomy, SFDR",82.0,,Submitted,[download],
+159,EU Taxonomy Opex Eligible,Multiple,WindFlow Energy,"EU Taxonomy, SFDR",41.0,,Submitted,[download],
+160,EU Taxonomy Opex Eligible,Multiple,GreenGrid Systems,"EU Taxonomy, SFDR",67.0,,Submitted,[download],
+161,EU Taxonomy Opex Eligible,Multiple,BioFuel Dynamics,"EU Taxonomy, SFDR",29.0,,Submitted,[download],
+162,EU Taxonomy Opex Eligible,Multiple,ClimateTech Labs,"EU Taxonomy, SFDR",94.0,,Submitted,[download],
+163,EU Taxonomy Opex Eligible,Multiple,OceanWave Energy,"EU Taxonomy, SFDR",50.0,,Submitted,[download],
+164,EU Taxonomy Opex Eligible,Multiple,RenewaTech Solutions,"EU Taxonomy, SFDR",71.0,,Submitted,[download],
+166,EU Taxonomy Capex Eligible,Multiple,CarbonZero Tech,"EU Taxonomy, SFDR",47.0,,Submitted,[download],
+167,EU Taxonomy Capex Eligible,Multiple,SolarScape Solutions,"EU Taxonomy, SFDR",60.0,,Submitted,[download],
+168,EU Taxonomy Capex Eligible,Multiple,EcoPower Innovations,"EU Taxonomy, SFDR",83.0,,Submitted,[download],
+169,EU Taxonomy Capex Eligible,Multiple,ClimateGuard Technologies,"EU Taxonomy, SFDR",28.0,,Submitted,[download],
+170,EU Taxonomy Capex Eligible,Multiple,WindFlow Energy,"EU Taxonomy, SFDR",75.0,,Submitted,[download],
+171,EU Taxonomy Capex Eligible,Multiple,GreenGrid Systems,"EU Taxonomy, SFDR",53.0,,Submitted,[download],
+172,EU Taxonomy Capex Eligible,Multiple,BioFuel Dynamics,"EU Taxonomy, SFDR",12.0,,Submitted,[download],
+173,EU Taxonomy Capex Eligible,Multiple,ClimateTech Labs,"EU Taxonomy, SFDR",66.0,,Submitted,[download],
+174,EU Taxonomy Capex Eligible,Multiple,OceanWave Energy,"EU Taxonomy, SFDR",39.0,,Submitted,[download],
+175,EU Taxonomy Capex Eligible,Multiple,RenewaTech Solutions,"EU Taxonomy, SFDR",88.0,,Submitted,[download],
+177,GHG Emissions Scope 1,Climate,CarbonZero Tech,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",542.0,128,Submitted,[download],tCO
+178,GHG Emissions Scope 1,Climate,SolarScape Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",712.0,104,Submitted,[download],tCO
+179,GHG Emissions Scope 1,Climate,EcoPower Innovations,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",498.0,152,Submitted,[download],tCO
+180,GHG Emissions Scope 1,Climate,ClimateGuard Technologies,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",829.0,115.2,Submitted,[download],tCO
+181,GHG Emissions Scope 1,Climate,WindFlow Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",665.0,142.4,Submitted,[download],tCO
+182,GHG Emissions Scope 1,Climate,GreenGrid Systems,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",573.0,120,Submitted,[download],tCO
+183,GHG Emissions Scope 1,Climate,BioFuel Dynamics,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",938.0,164.8,Submitted,[download],tCO
+184,GHG Emissions Scope 1,Climate,ClimateTech Labs,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",671.0,92.8,Submitted,[download],tCO
+185,GHG Emissions Scope 1,Climate,OceanWave Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",521.0,153.6,Submitted,[download],tCO
+186,GHG Emissions Scope 1,Climate,RenewaTech Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",783.0,113.6,Submitted,[download],tCO
+188,GHG Emissions Scope 2,Climate,CarbonZero Tech,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",4.0,691.2,Submitted,[download],tCO
+189,GHG Emissions Scope 2,Climate,SolarScape Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",3.0,604.8,Submitted,[download],tCO
+190,GHG Emissions Scope 2,Climate,EcoPower Innovations,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",5.0,824,Submitted,[download],tCO
+191,GHG Emissions Scope 2,Climate,ClimateGuard Technologies,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",3.0,633.6,Submitted,[download],tCO
+192,GHG Emissions Scope 2,Climate,WindFlow Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",4.0,782.4,Submitted,[download],tCO
+193,GHG Emissions Scope 2,Climate,GreenGrid Systems,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",4.0,664,Submitted,[download],tCO
+194,GHG Emissions Scope 2,Climate,BioFuel Dynamics,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",5.0,908.2,Submitted,[download],tCO
+195,GHG Emissions Scope 2,Climate,ClimateTech Labs,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",3.0,547.2,Submitted,[download],tCO
+196,GHG Emissions Scope 2,Climate,OceanWave Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",4.0,768,Submitted,[download],tCO
+197,GHG Emissions Scope 2,Climate,RenewaTech Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",4.0,644.8,Submitted,[download],tCO
+199,GHG Emissions Scope 3,Climate,CarbonZero Tech,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",9.0,1560,Submitted,[download],tCO
+200,GHG Emissions Scope 3,Climate,SolarScape Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",8.0,1313.6,Submitted,[download],tCO
+201,GHG Emissions Scope 3,Climate,EcoPower Innovations,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",11.0,1830.4,Submitted,[download],tCO
+202,GHG Emissions Scope 3,Climate,ClimateGuard Technologies,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",7.0,1262.4,Submitted,[download],tCO
+203,GHG Emissions Scope 3,Climate,WindFlow Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",10.0,1689.6,Submitted,[download],tCO
+204,GHG Emissions Scope 3,Climate,GreenGrid Systems,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",9.0,1461.6,Submitted,[download],tCO
+205,GHG Emissions Scope 3,Climate,BioFuel Dynamics,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",12.0,1985.6,Submitted,[download],tCO
+206,GHG Emissions Scope 3,Climate,ClimateTech Labs,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",6.0,1116.8,Submitted,[download],tCO
+207,GHG Emissions Scope 3,Climate,OceanWave Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",10.0,1614.4,Submitted,[download],tCO
+208,GHG Emissions Scope 3,Climate,RenewaTech Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",8.0,1400,Submitted,[download],tCO
+210,GHG Intensity,Climate,CarbonZero Tech,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.78,,Submitted,[download],kg
+211,GHG Intensity,Climate,SolarScape Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1.25,,Submitted,[download],kg
+212,GHG Intensity,Climate,EcoPower Innovations,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.95,,Submitted,[download],kg
+213,GHG Intensity,Climate,ClimateGuard Technologies,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1.5,,Submitted,[download],kg
+214,GHG Intensity,Climate,WindFlow Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.62,,Submitted,[download],kg
+215,GHG Intensity,Climate,GreenGrid Systems,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1.8,,Submitted,[download],kg
+216,GHG Intensity,Climate,BioFuel Dynamics,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.88,,Submitted,[download],kg
+217,GHG Intensity,Climate,ClimateTech Labs,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1.1,,Submitted,[download],kg
+218,GHG Intensity,Climate,OceanWave Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1.35,,Submitted,[download],kg
+219,GHG Intensity,Climate,RenewaTech Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.72,,Submitted,[download],kg
+221,Fossil fuel sector exposure,Multiple,CarbonZero Tech,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+222,Fossil fuel sector exposure,Multiple,SolarScape Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+223,Fossil fuel sector exposure,Multiple,EcoPower Innovations,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+224,Fossil fuel sector exposure,Multiple,ClimateGuard Technologies,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+225,Fossil fuel sector exposure,Multiple,WindFlow Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],Negligible
+226,Fossil fuel sector exposure,Multiple,GreenGrid Systems,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+227,Fossil fuel sector exposure,Multiple,BioFuel Dynamics,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+228,Fossil fuel sector exposure,Multiple,ClimateTech Labs,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+229,Fossil fuel sector exposure,Multiple,OceanWave Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+230,Fossil fuel sector exposure,Multiple,RenewaTech Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],Negligible
+232,Non-renewable energy consumption,Multiple,CarbonZero Tech,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1250.0,150,Submitted,[download],KWh
+233,Non-renewable energy consumption,Multiple,SolarScape Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",890.0,106.8,Submitted,[download],KWh
+234,Non-renewable energy consumption,Multiple,EcoPower Innovations,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1680.0,201.6,Submitted,[download],KWh
+235,Non-renewable energy consumption,Multiple,ClimateGuard Technologies,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",2075.0,249,Submitted,[download],KWh
+236,Non-renewable energy consumption,Multiple,WindFlow Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1423.0,170.76,Submitted,[download],KWh
+237,Non-renewable energy consumption,Multiple,GreenGrid Systems,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",980.0,117.6,Submitted,[download],KWh
+238,Non-renewable energy consumption,Multiple,BioFuel Dynamics,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1785.0,214.2,Submitted,[download],KWh
+239,Non-renewable energy consumption,Multiple,ClimateTech Labs,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1100.0,132,Submitted,[download],KWh
+240,Non-renewable energy consumption,Multiple,OceanWave Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1567.0,188.04,Submitted,[download],KWh
+241,Non-renewable energy consumption,Multiple,RenewaTech Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1345.0,161.4,Submitted,[download],KWh
+243,Non-renewable energy production,Multiple,CarbonZero Tech,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.0,0,Submitted,[download],KWh
+244,Non-renewable energy production,Multiple,SolarScape Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.0,0,Submitted,[download],KWh
+245,Non-renewable energy production,Multiple,EcoPower Innovations,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.0,0,Submitted,[download],KWh
+246,Non-renewable energy production,Multiple,ClimateGuard Technologies,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1680.0,201.6,Submitted,[download],KWh
+247,Non-renewable energy production,Multiple,WindFlow Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",2075.0,249,Submitted,[download],KWh
+248,Non-renewable energy production,Multiple,GreenGrid Systems,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1423.0,170.76,Submitted,[download],KWh
+249,Non-renewable energy production,Multiple,BioFuel Dynamics,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",980.0,117.6,Submitted,[download],KWh
+250,Non-renewable energy production,Multiple,ClimateTech Labs,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",1785.0,214.2,Submitted,[download],KWh
+251,Non-renewable energy production,Multiple,OceanWave Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.0,0,Submitted,[download],KWh
+252,Non-renewable energy production,Multiple,RenewaTech Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.0,0,Submitted,[download],KWh
+254,Impact on high biodiversity areas,Biodiversity & Ecosystems,CarbonZero Tech,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+255,Impact on high biodiversity areas,Biodiversity & Ecosystems,SolarScape Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+256,Impact on high biodiversity areas,Biodiversity & Ecosystems,EcoPower Innovations,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+257,Impact on high biodiversity areas,Biodiversity & Ecosystems,ClimateGuard Technologies,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+258,Impact on high biodiversity areas,Biodiversity & Ecosystems,WindFlow Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+259,Impact on high biodiversity areas,Biodiversity & Ecosystems,GreenGrid Systems,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+260,Impact on high biodiversity areas,Biodiversity & Ecosystems,BioFuel Dynamics,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+261,Impact on high biodiversity areas,Biodiversity & Ecosystems,ClimateTech Labs,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+262,Impact on high biodiversity areas,Biodiversity & Ecosystems,OceanWave Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+263,Impact on high biodiversity areas,Biodiversity & Ecosystems,RenewaTech Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",,,Submitted,[download],
+265,Emissions to water,"Water, Pollution",CarbonZero Tech,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.0,0,Submitted,[download],Tonnes
+266,Emissions to water,"Water, Pollution",SolarScape Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.0,0,Submitted,[download],Tonnes
+267,Emissions to water,"Water, Pollution",EcoPower Innovations,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.0,0,Submitted,[download],Tonnes
+268,Emissions to water,"Water, Pollution",ClimateGuard Technologies,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.0,0,Submitted,[download],Tonnes
+269,Emissions to water,"Water, Pollution",WindFlow Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.0,0,Submitted,[download],Tonnes
+270,Emissions to water,"Water, Pollution",GreenGrid Systems,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.0,0,Submitted,[download],Tonnes
+271,Emissions to water,"Water, Pollution",BioFuel Dynamics,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.0,0,Submitted,[download],Tonnes
+272,Emissions to water,"Water, Pollution",ClimateTech Labs,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.0,0,Submitted,[download],Tonnes
+273,Emissions to water,"Water, Pollution",OceanWave Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.0,0,Submitted,[download],Tonnes
+274,Emissions to water,"Water, Pollution",RenewaTech Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",0.0,0,Submitted,[download],Tonnes
+276,Hazardous waste ratio,"Waste, Pollution",CarbonZero Tech,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",34.5,0.88,Submitted,[download],tonnes
+277,Hazardous waste ratio,"Waste, Pollution",SolarScape Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",22.8,0.365,Submitted,[download],tonnes
+278,Hazardous waste ratio,"Waste, Pollution",EcoPower Innovations,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",45.6,1.46,Submitted,[download],tonnes
+279,Hazardous waste ratio,"Waste, Pollution",ClimateGuard Technologies,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",18.7,0.992,Submitted,[download],tonnes
+280,Hazardous waste ratio,"Waste, Pollution",WindFlow Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",39.2,1.984,Submitted,[download],tonnes
+281,Hazardous waste ratio,"Waste, Pollution",GreenGrid Systems,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",28.1,1.416,Submitted,[download],tonnes
+282,Hazardous waste ratio,"Waste, Pollution",BioFuel Dynamics,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",52.3,2.728,Submitted,[download],tonnes
+283,Hazardous waste ratio,"Waste, Pollution",ClimateTech Labs,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",14.6,0.368,Submitted,[download],tonnes
+284,Hazardous waste ratio,"Waste, Pollution",OceanWave Energy,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",41.9,2.672,Submitted,[download],tonnes
+285,Hazardous waste ratio,"Waste, Pollution",RenewaTech Solutions,"GHG Protocol, SFDR, PAIs, IRIS+, TCFD",31.0,1.86,Submitted,[download],tonnes
+287,Gender pay gap,"Diversity & Inclusion, Employment",CarbonZero Tech,"PAIs, SFDR, IRIS+",12.0,,Submitted,[download],
+288,Gender pay gap,"Diversity & Inclusion, Employment",SolarScape Solutions,"PAIs, SFDR, IRIS+",17.0,,Submitted,[download],
+289,Gender pay gap,"Diversity & Inclusion, Employment",EcoPower Innovations,"PAIs, SFDR, IRIS+",21.0,,Submitted,[download],
+290,Gender pay gap,"Diversity & Inclusion, Employment",ClimateGuard Technologies,"PAIs, SFDR, IRIS+",8.0,,Submitted,[download],
+291,Gender pay gap,"Diversity & Inclusion, Employment",WindFlow Energy,"PAIs, SFDR, IRIS+",25.0,,Submitted,[download],
+292,Gender pay gap,"Diversity & Inclusion, Employment",GreenGrid Systems,"PAIs, SFDR, IRIS+",14.0,,Submitted,[download],
+293,Gender pay gap,"Diversity & Inclusion, Employment",BioFuel Dynamics,"PAIs, SFDR, IRIS+",19.0,,Submitted,[download],
+294,Gender pay gap,"Diversity & Inclusion, Employment",ClimateTech Labs,"PAIs, SFDR, IRIS+",10.0,,Submitted,[download],
+295,Gender pay gap,"Diversity & Inclusion, Employment",OceanWave Energy,"PAIs, SFDR, IRIS+",28.0,,Submitted,[download],
+296,Gender pay gap,"Diversity & Inclusion, Employment",RenewaTech Solutions,"PAIs, SFDR, IRIS+",16.0,,Submitted,[download],
+298,Board gender diversity,Diversity & Inclusion,CarbonZero Tech,"PAIs, SFDR",15.0,,Submitted,[download],
+299,Board gender diversity,Diversity & Inclusion,SolarScape Solutions,"PAIs, SFDR",12.0,,Submitted,[download],
+300,Board gender diversity,Diversity & Inclusion,EcoPower Innovations,"PAIs, SFDR",18.0,,Submitted,[download],
+301,Board gender diversity,Diversity & Inclusion,ClimateGuard Technologies,"PAIs, SFDR",22.0,,Submitted,[download],
+302,Board gender diversity,Diversity & Inclusion,WindFlow Energy,"PAIs, SFDR",9.0,,Submitted,[download],
+303,Board gender diversity,Diversity & Inclusion,GreenGrid Systems,"PAIs, SFDR",14.0,,Submitted,[download],
+304,Board gender diversity,Diversity & Inclusion,BioFuel Dynamics,"PAIs, SFDR",12.0,,Submitted,[download],
+305,Board gender diversity,Diversity & Inclusion,ClimateTech Labs,"PAIs, SFDR",17.0,,Submitted,[download],
+306,Board gender diversity,Diversity & Inclusion,OceanWave Energy,"PAIs, SFDR",16.0,,Submitted,[download],
+307,Board gender diversity,Diversity & Inclusion,RenewaTech Solutions,"PAIs, SFDR",13.0,,Submitted,[download],
+309,Exposure to controversial weapons,Health,CarbonZero Tech,"PAIs, SFDR",,,Submitted,[download],
+310,Exposure to controversial weapons,Health,SolarScape Solutions,"PAIs, SFDR",,,Submitted,[download],
+311,Exposure to controversial weapons,Health,EcoPower Innovations,"PAIs, SFDR",,,Submitted,[download],
+312,Exposure to controversial weapons,Health,ClimateGuard Technologies,"PAIs, SFDR",,,Submitted,[download],
+313,Exposure to controversial weapons,Health,WindFlow Energy,"PAIs, SFDR",,,Submitted,[download],
+314,Exposure to controversial weapons,Health,GreenGrid Systems,"PAIs, SFDR",,,Submitted,[download],
+315,Exposure to controversial weapons,Health,BioFuel Dynamics,"PAIs, SFDR",,,Submitted,[download],
+316,Exposure to controversial weapons,Health,ClimateTech Labs,"PAIs, SFDR",,,Submitted,[download],
+317,Exposure to controversial weapons,Health,OceanWave Energy,"PAIs, SFDR",,,Submitted,[download],
+318,Exposure to controversial weapons,Health,RenewaTech Solutions,"PAIs, SFDR",,,Submitted,[download],
