@@ -1,10 +1,16 @@
 # Welcome to My GitHub Portfolio
 
-Explore my year-long journey in Data Science and Natural Language Processing (NLP) through this collection of Jupyter Notebooks. They reflect my efforts in working with complex data into meaningful insights and engaging visualizations.
+Explore my year-long journey in Data Science and Natural Language Processing (NLP) through this collection of Jupyter Notebooks. 
+
+They reflect my efforts in working with complex data into meaningful insights and engaging visualizations.
+
 
 ## 1. My Data Science Journey: Delivering Impactful Insights
 
-Over the past year I worked in a sustainability reporting startup and saw several opportunities and limitations in the excel-based workflow.  With the objective of providing **actionable insights** to Impact Investors, I studied data science.
+Over the past year I worked in a sustainability reporting startup and saw several opportunities and limitations in the excel-based workflow.  
+
+With the objective of providing **actionable insights** to Impact Investors, I studied data science.
+
 
 ## 2. Motivating Data Enthusiasts and Showcasing My Skills
 
@@ -12,6 +18,7 @@ This repository narrates my growth in data science, intending to:
 
 - Inspire data enthusiasts with real-world data transformations.
 - Demonstrate to employers my skills in machine learning and data analysis, focusing on data modeling and automation beyond traditional tools like Excel and Power BI. 
+
 
 ## 3. Leveraging Data Management and Cloud Technologies
 
