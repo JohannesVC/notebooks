@@ -31,3 +31,6 @@ This portfolio also includes several notebooks on *the Cloud*, such as:
 ---
 
 *Note: This repository is a learning journey and may not always showcase the most computationally efficient methods.*
+
+---
+Website: [johannes.vc](https://johannes.vc)
