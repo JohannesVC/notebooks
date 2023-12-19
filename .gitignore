@@ -1,7 +1,6 @@
-data/*
-data science projects/titanic/*
+data
 webscraping/*
-data science projects/House_prices/*
+data science projects/Kaggle projects/data
 flask/api_flaskr/.env
 NLP/data/*
 .env
