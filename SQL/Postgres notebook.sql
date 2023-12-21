@@ -1,5 +1,6 @@
 /*markdown
-# Simple operations in Postgres 
+# First some simple operations in Postgres 
+Also see [SQL Style Guide](https://www.sqlstyle.guide/)
 */
 
 CREATE TABLE IF NOT EXISTS test (
