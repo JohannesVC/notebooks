@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Portfolio
 
-Here I present my year-long journey in Data Science, Analytics and Natural Language Processing (NLP) in a collection of Jupyter Notebooks. They reflect my learning journey to turn complex data into meaningful insights. My motivations for sharing this repo are threefold: 
+Here I present my journey in Data Science, Analytics and Natural Language Processing (NLP) in a collection of Jupyter Notebooks. They reflect my learning journey to turn complex data into meaningful insights. My motivations for sharing this repo are threefold: 
 
 
 ## 1. My Data Science Journey: Delivering Impactful Insights
