@@ -7,7 +7,7 @@ Here I present my journey in Data Science, Analytics and Natural Language Proces
 
 ## 1. My Data Science Journey: Delivering Impactful Insights
 
-Over the past year I worked in a sustainability reporting startup and saw several opportunities and limitations in the excel-based workflow.  
+Over the past years I worked in a sustainability reporting startup and saw several opportunities and limitations in the excel-based workflow.  
 
 With the objective of providing **actionable insights** to Impact Investors, I studied data science. Using: Jupyter Notebooks.
 
