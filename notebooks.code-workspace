@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Jupyter Theme",
+		"workbench.preferredDarkColorTheme": "Jupyter Theme Dark",
+		"workbench.preferredHighContrastColorTheme": "Jupyter Theme Light High Contrast",
+		"workbench.preferredHighContrastLightColorTheme": "Default High Contrast Light",
+		"workbench.iconTheme": "vs-seti",
+		"workbench.statusBar.visible": false,
+		"workbench.editor.decorations.colors": true,
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#dadada",
+			"activityBar.foreground": "#000000"			
+		},
+		"workbench.activityBar.iconClickBehavior": "toggle"
+	}
+}
