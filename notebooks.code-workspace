@@ -5,17 +5,19 @@
 		}
 	],
 	"settings": {
-		"workbench.colorTheme": "Default Light Modern",
-		"workbench.preferredDarkColorTheme": "Jupyter Theme Dark",
-		// "workbench.preferredHighContrastColorTheme": "Jupyter Theme Light High Contrast",
-		"workbench.preferredHighContrastLightColorTheme": "Default High Contrast Light",
+		"workbench.colorTheme": "Default Dark Modern",
+		// "workbench.preferredDarkColorTheme": "Jupyter Theme Dark",
+		// "workbench.preferredHighContrastLightColorTheme": "Default High Contrast Light",
 		"workbench.iconTheme": "vs-seti",
-		"workbench.statusBar.visible": false,
+		"workbench.statusBar.visible": true,
 		"workbench.editor.decorations.colors": true,
 		// "workbench.colorCustomizations": {
 		// 	"activityBar.background": "#dadada",
 		// 	"activityBar.foreground": "#000000"			
 		// },
-		"workbench.activityBar.iconClickBehavior": "toggle"
+		"workbench.activityBar.iconClickBehavior": "toggle",
+		// "markdown-preview-enhanced.previewTheme": "one-light.css",
+		"workbench.editor.showIcons": true,
+		"markdown.extension.syntax.plainTheme": true
 	}
 }
