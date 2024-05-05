@@ -22,9 +22,11 @@ For example:
 (This is not necessary as GCP's OS Login manages the keys)
 ssh-keygen -t rsa -b 4096 -C "newkey"
 notepad C:\Users\johan\.ssh\idd_rsa.pub
+
+
 gcloud compute os-login ssh-keys add --key-file=C:\Users\johan/.ssh/id_rsa.pub --project=johannesvc
 
-This was quite the issue. The solution:
+This was an issue. The solution:
 >1. enable OS Login (project-wide):
 >gcloud compute project-info add-metadata --metadata enable-oslogin=TRUE
 >2. drop the pkk key file
@@ -58,9 +60,6 @@ gcloud compute ssh gmachine2 --zone=us-central1-a --dry-run
 
 To set up a lightweight [miniconda](https://docs.anaconda.com/free/miniconda/#quick-command-line-install) install check the linux tab.
 
-
 https://console.cloud.google.com/security/iap/firewallconfigreview/gmachine?project=johannesvc
 
 gcloud compute ssh gmachine2 --project=johannesvc --zone=us-central1-a --troubleshoot --tunnel-through-iap
-
-$\Iota$
