@@ -6,7 +6,7 @@
 
 `cd`
 `ls` show directories and files
-``ls -l -a`: show detail
+`ls -l -a`: show detail (use: `-la`)
 `mkdir`
 `touch` make a file
 `nano` open file (and write, save it)
@@ -15,6 +15,12 @@
 
 **To put data on the local filesystem of the masternode from CMD:**
 `scp README.md lena:` 
+
+**Similarly, to copy from lena to local:**
+From CMD, run: `scp lena:./outputtopic31/part-00000 ./`
+
+Or:
+`scp lena:./dir/file "/C/Users/johan/Documents/GitHub/notebooks/MSc Data Science/big data"`
 
 **To put a dir on the filesystem:**
 `rsync [options] [src] [dest]` # can be ssh to ssh 
@@ -66,3 +72,29 @@ Notes:
 Setup public key to get rid of passwords:
 `type %USERPROFILE%\.ssh\id_rsa.pub | ssh jcauw001@lena.doc.gold.ac.uk "cat >> .ssh/authorized_keys"`
 This pipes the public key created by `ssh-keygen` to the authorised_keys file. Note that I had to create the folders, file and permissions first.
+
+### Topic 3
+#### Unix commands
+`echo a b d c b b` simply repeats it to stdout
+`echo a b d c b b | python mapper.py` inputs string to pythons sys.stdin which then reads it
+`echo a b d c b b | python mapper.py | sort | python reducer.py`
+
+`cat books.txt | ./mapper.py | sort | ./reducer.py`
+Note:
+Check `ls -l mapper.py reducer.py` for permission.
+Add execute permission: `chmod +x reducer.py` and `chmod +x mapper.py`
+
+#### hadoop streaming
+Since hadoop MapReduce is written in Java, we have to run Python in hadoop streaming. We then read and write from and to standard in and out.
+
+We need the streaming jar file. A .jar file is a java script. 
+Location: `/opt/hadoop/current/share/hadoop/tools/lib`
+
+The hadoop command is as follows:
+`hadoop jar /opt/hadoop/current/share/hadoop/tools/lib/hadoop-streaming-3.3.0.jar -file mapper.py -mapper mapper.py -file reducer.py -reducer reducer.py -input books.txt -output outputtopic3`
+
+Note: 
+- `-file mapper.py ` refers to the local filesystem (not on the cluster but on the local machine)
+- The big data file, `books.txt` is on HDFS
+  
+  Or excecute from batch file - see mapreduce_script
