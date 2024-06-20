@@ -3,11 +3,8 @@
 		{
 			"path": "."
 		},
-		// {
-		// 	"path": "../../../OneDrive/_Msc Data Science"
-		// },
 		{
-			"path": "../../../../OneDrive/_Msc Data Science"
+			"path": "G:/My Drive/_Msc Data Science"
 		}
 	],
 	"settings": {
