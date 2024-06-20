@@ -15,6 +15,8 @@
 
 **To put data on the local filesystem of the masternode from CMD:**
 `scp README.md lena:` 
+Also works for folder:
+`scp ./british-fiction-corpus/* lena:./docs`
 
 **Similarly, to copy from lena to local:**
 From CMD, run: `scp lena:./outputtopic31/part-00000 ./`
@@ -23,7 +25,7 @@ Or:
 `scp lena:./dir/file "/C/Users/johan/Documents/GitHub/notebooks/MSc Data Science/big data"`
 
 **To put a dir on the filesystem:**
-`rsync [options] [src] [dest]` # can be ssh to ssh 
+`rsync [options] [src] [dest]` # can be ssh to ssh, but unclear why it doesn't work from CMD
 
 Specify `-e 'ssh'` if the source is an ssh host.
 
@@ -98,3 +100,114 @@ Note:
 - The big data file, `books.txt` is on HDFS
   
   Or excecute from batch file - see mapreduce_script
+
+### Topic 4: clustering
+
+See [programming activity](https://learn.london.ac.uk/pluginfile.php/371923/mod_page/content/14/Topic4_ProgrammingActivity-151220.html)
+
+In CMD:
+`scp ./british-fiction-corpus/* lena:./docs`
+
+In ssh lena:
+```bash
+mkdir ./docs
+cd ./docs/
+hadoop fs -copyFromLocal .
+hadoop fs -ls ./docs
+```
+Create sequence files, then sparse vectors
+```bash
+mahout seqdirectory -i docs -o docs-seqfiles -c UTF-8 -chunk 5
+mahout seq2sparse -nv -i docs-seqfiles -o docs-vectors
+```
+
+Initialise centroids:
+```
+mahout canopy \
+  -i docs-vectors/tfidf-vectors \
+  -ow -o docs-vectors/docs-canopy-centroids \
+  -dm org.apache.mahout.common.distance.CosineDistanceMeasure \
+  -t1 0.5 \
+  -t2 0.3
+```
+
+More info [here](https://people.apache.org/~isabel/content/users/clustering/canopy-clustering.html)
+
+Run the K-Means algorithm with Mahout:
+```
+mahout kmeans \
+  -i docs-vectors/tfidf-vectors \
+  -c docs-canopy-centroids \  # set of initial canopy centroids 
+  -o hdfs://lena/user/jcauw001/docs-kmeans-clusters \
+  -dm org.apache.mahout.common.distance.CosineDistanceMeasure \
+  -cl \   # run input vector clustering after computing canopies
+  -cd 0.1 \ # convergence threshold
+  -ow \
+  -x 20 \   # maxIter 
+  -k 10     # numClusters
+```    
+
+To evaluate:
+```
+mahout clusterdump \
+  -dt sequencefile \
+  -d docs-vectors/dictionary.file-* \
+  -i docs-kmeans-clusters/clusters-2-final \
+  -o clusters.txt \
+  -b 100 \      # format length
+  -p docs-kmeans-clusters/clusteredPoints \ # points directory (the set of point ids and cluster id pairs)
+  -n 20 \       # number of top terms to print
+  
+  # -dm org.apache.mahout.common.distance.CosineDistanceMeasure # default is euclidean distance!!
+
+  --evaluate
+```
+
+`tail ./clusters.txt`
+
+This gives:
+CDbw Separation: 1.4637530057057427E7
+
+On separation: Higher values of separation indicate better clustering quality, as it means that clusters are more distinct from each other with low density of points in between them.
+
+More info: mahout clusterdump --help
+
+#### More info on mahout.apache.org
+[See here](https://mahout.apache.org/docs/0.13.0/api/docs/mahout-integration/org/apache/mahout/clustering/cdbw/CDbwEvaluator.html) for more on evaluation metrics. For distance metrics [see here](https://mahout.apache.org/docs/0.13.0/api/docs/mahout-mr/org/apache/mahout/common/distance/package-summary.html). Some more info on the commands, see this [cheat sheet](https://gist.github.com/zviri/7766943)
+
+
+#### More on my metrics:
+Inter-Cluster Density (Low is Good): Your value is 0.264, which is low, indicating good **separation**.
+Intra-Cluster Density (High is Good): Your value is 0.536, which suggests moderate **cohesion** within clusters.
+CDbw Inter-Cluster Density (Low is Good): Your value is 0.0, which is ideal.
+CDbw Intra-Cluster Density (High is Good): Your value is 0.573, which indicates good cohesion within clusters.
+CDbw Separation (High is Good): Your value is very high, indicating excellent separation between clusters.
+
+Separation: Your clusters are well-separated (high CDbw separation value, low inter-cluster density).
+Cohesion: There is moderate to good cohesion within clusters (intra-cluster density values).
+CDbw Metrics: CDbw-specific metrics further confirm excellent separation and good internal cohesion.
+
+## For CW, try:
+`-dm org.apache.mahout.common.distance.TanimotoDistanceMeasure` (refer to [here](https://learning.oreilly.com/library/view/mahout-in-action/9781935182689/kindle_split_019.html#ch09)) (also for canopy)
+
+**for canopy**: 
+```
+-dm org.apache.mahout.common.distance.EuclideanDistanceMeasure \
+-t1 1500 -t2 2000
+```
+**for kmeans**: 
+```
+-dm org.apache.mahout.common.distance.TanimotoDistanceMeasure  \
+-c reuters-canopy-centroids/clusters-0 -cd 0.1 -ow -x 20 -cl
+```
+
+**kmeans**: 
+```
+-dm org.apache.mahout.common.distance.SquaredEuclideanDistanceMeasure \
+-cd 1.0 -k 20 -x 20 -cl
+```
+> A large value of convergenceThreshold (1.0), because we’re using the squared value of the Euclidean distance measure
+
+**for k**:
+> In the preceding example, where we have about a million news articles, if there are an average of 500 news articles published about every unique story, you should start your clustering with a k value of about 2,000 (1,000,000/500).
+From [mahout in action](https://learning.oreilly.com/library/view/mahout-in-action/9781935182689/kindle_split_019.html#ch09) book.

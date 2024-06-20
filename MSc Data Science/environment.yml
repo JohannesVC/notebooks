@@ -20,3 +20,5 @@ dependencies:
   - xgboost
   - graphviz
   - numpy
+  - geopandas
+  - geodatasets
