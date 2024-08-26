@@ -1,5 +1,0 @@
-In Windows, 0 you can change the current folder (directory) in the Command Prompt using the cd command, which stands for "change directory." Here's how to do it:
-
-Open Command Prompt: 7 Press Win + R to open the Run dialog, type cmd, and press Enter. Alternatively, you can search for "Command Prompt" in the Start menu and open it from there.
-
-Change the directory: Use the cd command followed by the path of the folder you want to change to. For example, if you want to change to the C:\Users\YourUsername\Documents folder, you would enter:

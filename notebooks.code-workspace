@@ -21,6 +21,11 @@
 		"workbench.activityBar.iconClickBehavior": "toggle",
 		// "markdown-preview-enhanced.previewTheme": "one-light.css",
 		"workbench.editor.showIcons": true,
-		"markdown.extension.syntax.plainTheme": true
+		"markdown.extension.syntax.plainTheme": true,
+		"workbench.colorCustomizations": {
+			
+		},
+		"python.languageServer": "Pylance",
+		"SQLNotebook.useLanguageServer": true
 	}
 }
