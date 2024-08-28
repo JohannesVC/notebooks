@@ -2,10 +2,8 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "G:/My Drive/_Msc Data Science"
 		}
+		
 	],
 	"settings": {
 		"workbench.colorTheme": "Default Dark Modern",
